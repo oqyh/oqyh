@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oqyh" alt="oqyh" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 **I Code For Fun :)**
-
-- 📫 How to reach me **Discord : Gold KingZ#1337**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discordapp.com/users/411913932261818368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/411913932261818368" height="30" width="40" /></a>
