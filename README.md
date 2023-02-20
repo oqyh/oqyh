@@ -1,4 +1,7 @@
+
 <p align="center">
+
+![](https://github.com/oqyh/oqyh/blob/main/img/eyecut.gif?raw=true)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&weight=900&size=25&pause=1000&color=5DF7E6&background=425DFF00&center=true&vCenter=true&width=435&height=60&lines=Gold+KingZ" alt="Typing SVG" /></a>
 
