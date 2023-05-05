@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=500&pause=1000&color=5DF7E6&background=425DFF00&center=true&vCenter=true&width=435&height=10&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D" alt="Typing SVG" /></a>
 
-https://user-images.githubusercontent.com/48490385/236513271-a8a1e339-7a83-4efd-9d06-1e23735e418e.mp4
+https://user-images.githubusercontent.com/48490385/236513431-d1e3be18-10a3-46a9-88b7-1ea41960c8f7.mp4
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=500&pause=1000&color=5DF7E6&background=425DFF00&center=true&vCenter=true&width=435&height=10&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D" alt="Typing SVG" /></a>
 
