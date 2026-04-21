@@ -1,21 +1,61 @@
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  GoldKingZ · github.com/oqyh                                        -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
+<div align="center">
 
-![](https://github.com/oqyh/oqyh/blob/main/img/eyecut.gif?raw=true)
+# `⟦ GoldKingZ ⟧`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&weight=900&size=25&pause=1000&color=5DF7E6&background=425DFF00&center=true&vCenter=true&width=435&height=60&lines=Gold+KingZ" alt="Typing SVG" /></a>
+![footer](https://github.com/oqyh/oqyh/blob/main/img/eyecut.gif?raw=true)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=500&pause=1000&color=5DF7E6&background=425DFF00&center=true&vCenter=true&width=435&height=10&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D" alt="Typing SVG" /></a>
+
+**C++ / C# developer · reverse engineering games**
+
+![Profile Views](https://komarev.com/ghpvc/?username=oqyh&label=visitors&color=5DF7E6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/oqyh?label=followers&style=flat-square&color=5DF7E6&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/oqyh?label=stars&style=flat-square&color=5DF7E6&labelColor=0D1117)
+
+
 
 https://user-images.githubusercontent.com/48490385/236513431-d1e3be18-10a3-46a9-88b7-1ea41960c8f7.mp4
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=500&pause=1000&color=5DF7E6&background=425DFF00&center=true&vCenter=true&width=435&height=10&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D" alt="Typing SVG" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oqyh&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=500&pause=1000&color=5DF7E6&background=425DFF00&center=true&vCenter=true&width=435&height=10&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D" alt="Typing SVG" /></a>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+##  stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,bash,mysql,sqlite,linux,aws,gcp,firebase,unity,unreal,ps,ai" />
 </p>
+
+<br/>
+
+##  stats
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=oqyh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5DF7E6&text_color=C9D1D9&icon_color=5DF7E6&ring_color=5DF7E6" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oqyh&layout=compact&hide_border=true&bg_color=0D1117&title_color=5DF7E6&text_color=C9D1D9&langs_count=8" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+##  connect
+
+<p>
+  <a href="https://discord.com/invite/U7AuQhu"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5DF7E6" /></a>
+  <a href="https://www.youtube.com/@goldkingz1337"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=5DF7E6" /></a>
+  <a href="https://steamcommunity.com/id/oQYh/"><img src="https://img.shields.io/badge/Steam-0D1117?style=for-the-badge&logo=steam&logoColor=5DF7E6" /></a>
+</p>
+
+<br/>
+
+---
+
+</div>
