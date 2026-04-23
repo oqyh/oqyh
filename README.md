@@ -42,8 +42,10 @@
   <a href="https://steamcommunity.com/id/oQYh/">
     <img src="https://img.shields.io/badge/Steam-0D1117?style=for-the-badge&logo=steam&logoColor=5DF7E6" />
   </a>
+  <a href="https://ko-fi.com/goldkingz">
+    <img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=kofi&logoColor=5DF7E6" />
+  </a>
 </p>
-
 <br/>
 
 ---
